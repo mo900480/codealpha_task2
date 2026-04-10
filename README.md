@@ -1,2 +1,3 @@
 # codealpha_task2
-this task asked for create high-fidelity UI desigh for food restaurant 
+### codealpha_task2: High-Fidelity UI Design Overview
+In this task, created high-fidelity mobile app design for a food delivery service. This version focuses on creating a "fancy" and professional look by adding vibrant brand colors (like bright orange), high-quality food photography, and modern typography. The design includes rounded buttons with shadows, clear icons for navigation, and a clean layout that makes it easy for users to browse restaurants, view menus, and place orders. This task demonstrates how to take a basic app "skeleton" and turn it into a beautiful, user-friendly digital product.
